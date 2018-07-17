@@ -1,0 +1,20 @@
+/*мелочные css коррективы*/
+html {
+    overflow-y: scroll;
+}
+body {
+    margin-top: 20px;
+    font-family: 'Tahoma', sans-serif;
+}
+#output ul {
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+.btn_tel {
+    margin-top: 50px;
+}
+#output h2 {
+    font-weight: bold;
+    margin: 0;
+    font-size: 2em;
+}
